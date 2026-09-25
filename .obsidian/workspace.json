@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用接口.md",
+                "file": "Java/常用基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用接口"
+              "title": "常用基础知识"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.66668701171875
+    "width": 230.33334350585938
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -217,10 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b97eb0bb8c0f247a",
+  "active": "897cfaec17b265ec",
   "lastOpenFiles": [
-    "Java/try_catch中的finally.md",
     "Java/常用接口.md",
+    "Java/常用基础知识.md",
     "未命名.md",
     "MySQL",
     "Spring",
