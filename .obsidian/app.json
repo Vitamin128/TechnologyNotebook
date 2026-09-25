@@ -3,5 +3,6 @@
   "strictLineBreaks": false,
   "showLineNumber": false,
   "rightToLeft": false,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "promptDelete": false
 }

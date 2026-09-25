@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用基础知识.md",
+                "file": "Java/常用接口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用基础知识"
+              "title": "常用接口"
             }
           }
         ]
@@ -92,7 +92,7 @@
       {
         "id": "6fc12edfaded09e6",
         "type": "tabs",
-        "dimension": 38.86162904808636,
+        "dimension": 52.10991167811579,
         "children": [
           {
             "id": "0a4b1d683852823c",
@@ -131,7 +131,7 @@
       {
         "id": "e54c1f4d1cf00291",
         "type": "tabs",
-        "dimension": 61.13837095191364,
+        "dimension": 47.8900883218842,
         "children": [
           {
             "id": "78d62ab80f34bd59",
@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.333251953125
+    "width": 482
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,9 +242,9 @@
   },
   "active": "b97eb0bb8c0f247a",
   "lastOpenFiles": [
+    "Java/未命名.md",
     "Java/常用接口.md",
     "Java/常用基础知识.md",
-    "Java/未命名.md",
     "draft/异常.md",
     "draft",
     "MySQL",
