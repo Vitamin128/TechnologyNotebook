@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用接口.md",
+                "file": "draft/异常.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用接口"
+              "title": "异常"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.33334350585938
+    "width": 200
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -92,7 +92,7 @@
       {
         "id": "6fc12edfaded09e6",
         "type": "tabs",
-        "dimension": 52.10991167811579,
+        "dimension": 56.23159960745829,
         "children": [
           {
             "id": "0a4b1d683852823c",
@@ -131,7 +131,7 @@
       {
         "id": "e54c1f4d1cf00291",
         "type": "tabs",
-        "dimension": 47.8900883218842,
+        "dimension": 43.76840039254171,
         "children": [
           {
             "id": "78d62ab80f34bd59",
@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482
+    "width": 399.333251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,12 +240,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b97eb0bb8c0f247a",
+  "active": "5306863fc88fad3c",
   "lastOpenFiles": [
-    "Java/未命名.md",
-    "Java/常用接口.md",
-    "Java/常用基础知识.md",
+    "Spring/Tomcat&&HttpServletRequest.md",
     "draft/异常.md",
+    "Java/常用基础知识.md",
+    "Java/常用接口.md",
+    "Java/未命名.md",
     "draft",
     "MySQL",
     "Spring",
