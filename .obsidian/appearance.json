@@ -2,7 +2,8 @@
   "cssTheme": "Catppuccin",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Comic Sans MS",
+  "interfaceFontFamily": "Comic Sans MS,Microsoft YaHei UI,Microsoft YaHei",
   "textFontFamily": "Microsoft YaHei UI",
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": false
 }
