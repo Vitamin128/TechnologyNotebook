@@ -1,8 +1,8 @@
 {
   "id": "conv-1790346825291-vkmgefs8t",
   "providerId": "claude",
-  "title": "你好",
-  "titleGenerationStatus": "failed",
+  "title": "你好问候",
+  "titleGenerationStatus": "success",
   "createdAt": 1790346825306,
   "lastActivityAt": 1790346825306,
   "sessionId": null,

@@ -92,7 +92,7 @@
       {
         "id": "6fc12edfaded09e6",
         "type": "tabs",
-        "dimension": 42.198233562316,
+        "dimension": 38.86162904808636,
         "children": [
           {
             "id": "0a4b1d683852823c",
@@ -114,11 +114,11 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1790346787278-x3ef5qp",
-                      "conversationId": "conv-1790346825291-vkmgefs8t"
+                      "tabId": "tab-1790347150837-5w8djfi",
+                      "conversationId": "conv-1790347182920-ijb87nhq6"
                     }
                   ],
-                  "activeTabId": "tab-1790346787278-x3ef5qp"
+                  "activeTabId": "tab-1790347150837-5w8djfi"
                 }
               },
               "icon": "bot",
@@ -131,7 +131,7 @@
       {
         "id": "e54c1f4d1cf00291",
         "type": "tabs",
-        "dimension": 57.801766437684,
+        "dimension": 61.13837095191364,
         "children": [
           {
             "id": "78d62ab80f34bd59",
@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.333251953125
+    "width": 491.333251953125
   },
   "left-ribbon": {
     "hiddenItems": {

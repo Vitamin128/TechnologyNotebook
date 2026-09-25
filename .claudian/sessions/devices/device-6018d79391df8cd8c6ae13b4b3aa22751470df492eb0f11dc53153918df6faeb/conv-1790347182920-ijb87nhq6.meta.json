@@ -1,0 +1,28 @@
+{
+  "id": "conv-1790347182920-ijb87nhq6",
+  "providerId": "codex",
+  "title": "简单问候",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790347182922,
+  "lastActivityAt": 1790347190567,
+  "sessionId": "01a0d902-03ce-7c92-872a-7946404b5d37",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a0d902-03ce-7c92-872a-7946404b5d37",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\27295\\.codex\\sessions\\2026\\09\\25\\rollout-2026-09-25T22-39-43-01a0d902-03ce-7c92-872a-7946404b5d37.jsonl",
+    "transcriptRootPath": "C:\\Users\\27295\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "Java/常用基础知识.md",
+  "usage": {
+    "inputTokens": 13196,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 13196,
+    "percentage": 5,
+    "model": "gpt-5.6-sol"
+  }
+}
