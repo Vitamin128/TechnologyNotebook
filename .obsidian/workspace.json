@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/exception异常.md",
+                "file": "draft/异常.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exception异常"
+              "title": "异常"
             }
           }
         ]
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/exception异常.md",
+                "file": "draft/异常.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b97eb0bb8c0f247a",
+  "active": "5306863fc88fad3c",
   "lastOpenFiles": [
+    "Java/excepti异常.md",
     "draft/异常.md",
-    "Java/exception异常.md",
     "Java/常用基础知识.md",
     "Java/常用接口.md",
     "Spring/Tomcat&&HttpServletRequest.md",
