@@ -11,10 +11,14 @@
             "id": "897cfaec17b265ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java/try_catch.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "try_catch"
             }
           }
         ]
@@ -113,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码规范准则/常见注意事项.md",
+                "file": "Java/try_catch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码规范准则/常见注意事项.md",
+                "file": "Java/try_catch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码规范准则/常见注意事项.md",
+                "file": "Java/try_catch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,6 +219,7 @@
   },
   "active": "b97eb0bb8c0f247a",
   "lastOpenFiles": [
+    "Java/try_catch.md",
     "未命名.md",
     "MySQL",
     "Spring",
