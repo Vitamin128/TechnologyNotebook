@@ -4,6 +4,6 @@
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Comic Sans MS,Microsoft YaHei UI,Microsoft YaHei",
   "textFontFamily": "Microsoft YaHei UI",
-  "accentColor": "",
+  "accentColor": "#6befe7",
   "nativeMenus": false
 }

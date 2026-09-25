@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用基础知识.md",
+                "file": "Java/exception异常.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用基础知识"
+              "title": "exception异常"
             }
           }
         ]
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用基础知识.md",
+                "file": "Java/exception异常.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.9595947265625
+    "width": 325.18994140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,13 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5306863fc88fad3c",
+  "active": "b97eb0bb8c0f247a",
   "lastOpenFiles": [
-    "Java/常用接口.md",
-    "Java/常用基础知识.md",
     "draft/异常.md",
+    "Java/exception异常.md",
+    "Java/常用基础知识.md",
+    "Java/常用接口.md",
     "Spring/Tomcat&&HttpServletRequest.md",
-    "Java/未命名.md",
+    "未命名.canvas",
+    "未命名.base",
     "draft",
     "MySQL",
     "Spring",
@@ -233,7 +235,6 @@
     "每日任务清单/20260924.md",
     "SQL上线代码/20260930.md",
     "代码规范准则/常见注意事项.md",
-    "未命名.canvas",
     "账号密码.md",
     "2026-09-25.md",
     "代码规范准则",
