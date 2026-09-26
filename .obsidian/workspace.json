@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/excepti异常.md",
+                "file": "Java/0.待解决的相关问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "excepti异常"
+              "title": "0.待解决的相关问题"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.3241271972656
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -92,7 +92,7 @@
       {
         "id": "6fc12edfaded09e6",
         "type": "tabs",
-        "dimension": 35.483870967741936,
+        "dimension": 32.47311827956989,
         "children": [
           {
             "id": "0a4b1d683852823c",
@@ -109,7 +109,7 @@
       {
         "id": "e54c1f4d1cf00291",
         "type": "tabs",
-        "dimension": 64.51612903225806,
+        "dimension": 67.52688172043011,
         "children": [
           {
             "id": "78d62ab80f34bd59",
@@ -220,10 +220,13 @@
   },
   "active": "5306863fc88fad3c",
   "lastOpenFiles": [
-    "Java/常用接口.md",
-    "Java/常用基础知识.md",
+    "photo/Pasted image 20260926162301.png",
+    "Java/0.待解决的相关问题.md",
+    "Java/1.常用基础知识.md",
+    "photo",
     "draft/异常.md",
-    "Java/excepti异常.md",
+    "Java/3.exception异常.md",
+    "Java/2.常用接口.md",
     "Spring/Tomcat&&HttpServletRequest.md",
     "未命名.canvas",
     "未命名.base",
