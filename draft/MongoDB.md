@@ -25,14 +25,14 @@
   - [x] insertOne()
   - [x] insertMany()
 - [x] 查询
-  - [ ] find()
-  - [ ] findOne()
-  - [ ] 条件查询
-    - [ ] $eq
-    - [ ] $gt/$gte
-    - [ ] $lt/$lte
-    - [ ] $in/$nin
-    - [ ] $and/$or
+  - [x] find()
+  - [x] findOne()
+  - [x] 条件查询
+    - [x] $eq
+    - [x] $gt/$gte
+    - [x] $lt/$lte
+    - [x] $in/$nin
+    - [x] $and/$or
 - [ ] 更新
   - [ ] updateOne()
   - [ ] updateMany()
