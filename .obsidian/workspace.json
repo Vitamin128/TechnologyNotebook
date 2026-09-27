@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "draft/MongoDB.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5035400390625
+    "width": 298.4124755859375
   },
   "left-ribbon": {
     "hiddenItems": {
