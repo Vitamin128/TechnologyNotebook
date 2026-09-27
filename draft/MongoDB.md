@@ -49,14 +49,14 @@
 
 ## 3. 查询进阶
 
-- [ ] 投影 projection
-- [ ] 排序 sort()
-- [ ] 分页
-  - [ ] skip()
-  - [ ] limit()
-- [ ] 嵌套对象查询
-- [ ] 数组查询
-  - [ ] $elemMatch
+- [x] 投影 projection
+- [x] 排序 sort()
+- [x] 分页
+  - [x] skip()
+  - [x] limit()
+- [x] 嵌套对象查询
+- [x] 数组查询
+  - [x] $elemMatch
 
 ## 4. 数据建模
 
