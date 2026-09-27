@@ -43,9 +43,9 @@
     - [ ] $push 数组追加
     - [ ] $pull 数组删除
     - [ ] $addToSet 数组去重追加
-- [ ] 删除
-  - [ ] deleteOne()
-  - [ ] deleteMany()
+- [x] 删除
+  - [x] deleteOne()
+  - [x] deleteMany()
 
 ## 3. 查询进阶
 
