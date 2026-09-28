@@ -203,11 +203,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.4124755859375
+    "width": 408.6666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
-      "realclaudian:Open Claudian": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -215,10 +214,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "5306863fc88fad3c",
+  "active": "b97eb0bb8c0f247a",
   "lastOpenFiles": [
     "draft/异常.md",
     "draft/MongoDB.md",
