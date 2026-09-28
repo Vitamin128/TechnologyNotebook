@@ -2,50 +2,48 @@
 
 ## 一、JWT 基础
 
-- [ ] JWT 概念
+- [x] JWT 概念
   - 了解 JSON Web Token 的定义、作用以及解决的问题。
 
-- [ ] JWT 应用场景
+- [x] JWT 应用场景
   - 掌握 JWT 在登录认证、接口鉴权、单点登录、微服务认证中的使用。
 
-- [ ] JWT 与 Session 对比
+- [x] JWT 与 Session 对比
   - 理解有状态 Session 和无状态 JWT 的区别。
 
-- [ ] JWT 优缺点
+- [x] JWT 优缺点
   - 了解 JWT 的扩展性优势以及 Token 泄露、无法主动失效等问题。
-
 
 ## 二、JWT 结构
 
-- [ ] JWT 三段式结构
+- [x] JWT 三段式结构
 - 理解 JWT 由 Header、Payload、Signature 三部分组成。
 
-- [ ] Header（头部）
+- [x] Header（头部）
 - 存储 Token 类型和签名算法信息。
 
-- [ ] Payload（载荷）
+- [x] Payload（载荷）
 - 存储用户相关信息，例如用户 ID、角色、权限等。
 
-- [ ] Signature（签名）
+- [x] Signature（签名）
 - 用于验证 Token 是否被篡改。
 
 
 ## 三、JWT 工作流程
 
-- [ ] 用户登录
+- [x] 用户登录
 - 用户提交账号密码，服务器完成身份验证。
 
-- [ ] 生成 JWT
+- [x] 生成 JWT
 - 服务端根据用户信息生成 Token 并返回。
 
-- [ ] 客户端保存 Token
+- [x] 客户端保存 Token
 - 了解 Token 在 Cookie、LocalStorage 等位置的存储方式。
 
-- [ ] 请求携带 Token
+- [x] 请求携带 Token
 - 学习客户端如何通过 HTTP Header 发送 JWT。
 
-
-- [ ] 服务端验证 Token
+- [x] 服务端验证 Token
 - 服务端解析 JWT，验证签名和有效期。
 
 
@@ -126,22 +124,22 @@
 
 ## 八、JWT 安全
 
-- [ ] Token 泄露风险
+- [x] Token 泄露风险
 - 理解 Token 被盗后的安全问题。
 
-- [ ] Token 过期
+- [x] Token 过期
 - 使用 exp 控制 Token 生命周期。
 
-- [ ] Refresh Token
+- [x] Refresh Token
 - 使用刷新 Token 获取新的访问 Token。
 
-- [ ] Token 黑名单
+- [x] Token 黑名单
 - 实现 JWT 主动失效。
 
 - [ ] 防止重放攻击
 - 防止攻击者重复使用 Token。
 
-- [ ] HTTPS
+- [x] HTTPS
 - 保证 Token 传输过程安全。
 
 
