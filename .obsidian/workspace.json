@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/MongoDB.md",
+                "file": "draft/JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoDB"
+              "title": "JWT"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 216.25686645507812
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.4124755859375
+    "width": 394.568115234375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +221,7 @@
   "active": "5306863fc88fad3c",
   "lastOpenFiles": [
     "draft/异常.md",
+    "draft/JWT.md",
     "draft/MongoDB.md",
     "MongoDB/MongoDB建模.md",
     "MongoDB/0.常见命令.md",
