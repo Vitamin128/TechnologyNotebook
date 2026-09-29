@@ -1,12 +1,12 @@
-- [ ] stream
-- [ ] filter
-- [ ] map
-- [ ] collect
-- [ ] toList
+- [x] stream
+- [x] filter
+- [x] map
+- [x] collect
+- [x] toList
 - [ ] sorted
 - [ ] groupingBy
 - [ ] count
 - [ ] anyMatch
 - [ ] reduce
 - [ ] parallelStream
-- [ ] flatMap
+- [x] flatMap
