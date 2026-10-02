@@ -3,7 +3,7 @@
 - [x] map
 - [x] collect
 - [x] toList
-- [ ] sorted
+- [x] sorted
 - [ ] groupingBy
 - [ ] count
 - [ ] anyMatch
