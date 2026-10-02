@@ -4,7 +4,7 @@
 - [x] collect
 - [x] toList
 - [x] sorted
-- [ ] groupingBy
+- [x] groupingBy
 - [ ] count
 - [ ] anyMatch
 - [ ] reduce
