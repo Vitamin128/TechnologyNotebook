@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/6.JWT.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -261,15 +261,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8767d89f03ca10dc",
+  "active": "b97eb0bb8c0f247a",
   "lastOpenFiles": [
+    "Java/5.Cloneable.md",
+    "Java/4.reflection.md",
+    "Java/2.常用接口.md",
+    "Java/3.exception.md",
+    "Java/0.待解决的相关问题.md",
     "Java/1.常用基础知识.md",
     "Java/6.JWT.md",
-    "Java/2.常用接口.md",
-    "Java/3.exception异常.md",
-    "Java/4.反射.md",
-    "Java/5.对象拷贝问题.md",
-    "Java/0.待解决的相关问题.md",
     "MongoDB/0.常见命令.md",
     "draft/JWT.md",
     "draft/MongoDB.md",
