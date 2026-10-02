@@ -49,40 +49,40 @@
 
 ## 四、JWT 核心字段
 
-- [ ] iss（Issuer）
+- [x] iss（Issuer）
 - Token 签发者。
 
-- [ ] sub（Subject）
+- [x] sub（Subject）
 - Token 主题，一般表示用户身份。
 
-- [ ] exp（Expiration）
+- [x] exp（Expiration）
 - Token 过期时间。
 
-- [ ] iat（Issued At）
+- [x] iat（Issued At）
 - Token 创建时间。
 
-- [ ] nbf（Not Before）
+- [x] nbf（Not Before）
 - Token 生效时间。
 
-- [ ] jti（JWT ID）
+- [x] jti（JWT ID）
 - Token 唯一标识。
 
 
 ## 五、JWT 编码与算法
 
-- [ ] Base64URL 编码
+- [x] Base64URL 编码
 - 理解 JWT 为什么可以被直接解析查看。
 
-- [ ] HS256 对称算法
+- [x] HS256 对称算法
 - 使用同一个密钥完成签名和验证。
 
-- [ ] RS256 非对称算法
+- [x] RS256 非对称算法
 - 私钥签名，公钥验证。
 
-- [ ] 签名机制
+- [x] 签名机制
 - 理解签名如何保证 Token 完整性。
 
-- [ ] 密钥管理
+- [x] 密钥管理
 - 学习生产环境中的密钥保存和轮换。
 
 

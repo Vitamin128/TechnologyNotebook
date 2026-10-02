@@ -5,8 +5,9 @@
 - [x] toList
 - [x] sorted
 - [x] groupingBy
-- [ ] count
-- [ ] anyMatch
-- [ ] reduce
-- [ ] parallelStream
+- [x] count
+- [x] anyMatch
+- [x] reduce
+- [x] parallelStream
 - [x] flatMap
+- [x] Optional
