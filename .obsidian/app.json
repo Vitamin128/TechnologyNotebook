@@ -6,5 +6,6 @@
   "showIndentGuide": true,
   "promptDelete": false,
   "foldIndent": true,
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "livePreview": true
 }
