@@ -88,10 +88,10 @@
 
 ## 六、Spring Boot 集成 JWT
 
-- [ ] JWT 工具类
+- [x] JWT 工具类
 - 封装 Token 创建、解析、验证方法。
 
-- [ ] 登录接口生成 Token
+- [x] 登录接口生成 Token
 - 用户登录成功后返回 JWT。
 
 - [ ] Filter 过滤器
@@ -192,3 +192,5 @@
 
 - [ ] JWT 安全规范
 - 掌握生产环境 Token 设计原则。
+
+Token 类型解析方法载荷返回类型签名 + 声明字段`parseSignedClaims()``Claims`签名 + 普通内容`parseSignedContent()``byte[]`加密 + 声明字段`parseEncryptedClaims()``Claims`加密 + 普通内容`parseEncryptedContent()``byte[]`

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "designMode/工厂类和建造者模式.md",
+                "file": "draft/MongoDB.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工厂类和建造者模式"
+              "title": "MongoDB"
             }
           }
         ],
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.25421142578125
+    "width": 243.03439331054688
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -263,20 +263,23 @@
   },
   "active": "8767d89f03ca10dc",
   "lastOpenFiles": [
-    "draft/0.Todo.md",
-    "designMode/工厂类和建造者模式.md",
-    "designMode",
-    "draft/Iterable.md",
     "draft/JWT.md",
-    "draft/Stream.md",
+    "draft/JavaClassDesignRoles.md",
     "draft/MongoDB.md",
-    "Java/4.reflection.md",
+    "draft/Record.md",
+    "draft/Stream.md",
+    "draft/stream1.md",
+    "draft/Iterable.md",
+    "draft/0.Todo.md",
     "Java/5.Cloneable.md",
-    "Java/6.JWT.md",
-    "Java/2.常用接口.md",
-    "Java/3.exception.md",
+    "Java/6.Jwt.md",
     "Java/0.待解决的相关问题.md",
     "Java/1.常用基础知识.md",
+    "Java/2.常用接口.md",
+    "Java/3.Exception.md",
+    "Java/4.Reflection.md",
+    "designMode/工厂类和建造者模式.md",
+    "designMode",
     "MongoDB/0.常见命令.md",
     "draft/CocosCreator.md",
     "draft/异常.md",
@@ -296,8 +299,6 @@
     "每日任务清单/20260924.md",
     "SQL上线代码/20260930.md",
     "代码规范准则/常见注意事项.md",
-    "账号密码.md",
-    "2026-09-25.md",
     "代码规范准则",
     "每日任务清单"
   ]
