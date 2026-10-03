@@ -3,7 +3,7 @@
   "strictLineBreaks": false,
   "showLineNumber": false,
   "rightToLeft": false,
-  "showIndentGuide": true,
+  "showIndentGuide": false,
   "promptDelete": false,
   "foldIndent": true,
   "attachmentFolderPath": "Files",
