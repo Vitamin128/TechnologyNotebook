@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/8.Stream.md",
+                "file": "draft/9.关于http的auth的学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.Stream"
+              "title": "9.关于http的auth的学习"
             }
           }
         ],
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.64828491210938
+    "width": 280.1578063964844
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -246,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.366943359375
+    "width": 341.62158203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,14 +263,15 @@
   },
   "active": "8767d89f03ca10dc",
   "lastOpenFiles": [
+    "draft/1.直接创建对象和用Spring管理的区别.md",
+    "draft/9.关于http的auth的学习.md",
+    "draft/8.Stream.md",
     "draft/7.ServletRequestWrapper.md",
     "draft/6.Record.md",
     "draft/5.MongoDB.md",
     "draft/4.JWT.md",
     "draft/3.JavaClassDesignRoles.md",
     "draft/2.Iterable.md",
-    "draft/1.直接创建对象和用Spring管理的区别.md",
-    "draft/8.Stream.md",
     "designMode/工厂类和建造者模式.md",
     "draft/0.Todo.md",
     "draft/stream1.md",
@@ -298,7 +299,6 @@
     "Spring",
     "Java",
     "代码规范准则/项目使用的工具类.md",
-    "每日任务清单/20260924.md",
     "代码规范准则",
     "每日任务清单"
   ]
