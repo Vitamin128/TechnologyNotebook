@@ -21,14 +21,12 @@
             "id": "082c85360621f233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MongoDB/MongoDB建模.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Pasted image 20260926162301.png"
               },
-              "icon": "lucide-file",
-              "title": "MongoDB建模"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260926162301"
             }
           },
           {
@@ -243,34 +241,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "082c85360621f233",
+  "active": "045d9738587eeaf1",
   "lastOpenFiles": [
-    "MongoDB/0.常见命令.md",
-    "MongoDB/MongoDB建模.md",
-    "Java/6.Jwt.md",
-    "Java/5.Cloneable.md",
-    "Java/4.Reflection.md",
-    "Java/3.Exception.md",
-    "Java/2.常用接口.md",
-    "Java/1.常用基础知识.md",
-    "Spring/Tomcat&&HttpServletRequest.md",
-    "Java/0.待解决的相关问题.md",
-    "draft/9.关于http的auth的学习.md",
-    "draft/8.Stream.md",
-    "draft/7.ServletRequestWrapper.md",
-    "draft/6.Record.md",
-    "draft/5.MongoDB.md",
-    "draft/4.JWT.md",
-    "draft/3.JavaClassDesignRoles.md",
-    "draft/2.Iterable.md",
+    "designMode/工厂类和建造者模式.md",
     "draft/0.Todo.md",
     "draft/1.直接创建对象和用Spring管理的区别.md",
-    "designMode/工厂类和建造者模式.md",
+    "draft/2.Iterable.md",
+    "draft/3.JavaClassDesignRoles.md",
+    "draft/4.JWT.md",
+    "draft/5.MongoDB.md",
+    "draft/6.Record.md",
+    "draft/7.ServletRequestWrapper.md",
+    "draft/8.Stream.md",
+    "draft/9.关于http的auth的学习.md",
+    "Files/Pasted image 20260926162301.png",
+    "Java/0.待解决的相关问题.md",
+    "Java/1.常用基础知识.md",
+    "Java/2.常用接口.md",
+    "Java/3.Exception.md",
+    "Java/4.Reflection.md",
+    "Java/5.Cloneable.md",
+    "Java/6.Jwt.md",
+    "MongoDB/MongoDB建模.md",
+    "MongoDB/0.常见命令.md",
+    "Spring/Tomcat&&HttpServletRequest.md",
     "draft/stream1.md",
     "designMode",
     "draft/CocosCreator.md",
     "draft/异常.md",
-    "Files/Pasted image 20260926162301.png",
     "conflict-files-obsidian-git.md",
     "MongoDB",
     "Files",
@@ -280,7 +278,6 @@
     "MySQL",
     "Spring",
     "Java",
-    "代码规范准则/项目使用的工具类.md",
     "代码规范准则",
     "每日任务清单"
   ]
