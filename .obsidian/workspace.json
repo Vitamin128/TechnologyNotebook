@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "draft/10.RocketMQ.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -245,8 +245,9 @@
   },
   "active": "082c85360621f233",
   "lastOpenFiles": [
-    "MongoDB/0.常见命令.md",
+    "draft/0.Todo.md",
     "draft/10.RocketMQ.md",
+    "MongoDB/0.常见命令.md",
     "draft/4.JWT.md",
     "draft/3.JavaClassDesignRoles.md",
     "draft/5.MongoDB.md",
@@ -256,7 +257,6 @@
     "draft/9.关于http的auth的学习.md",
     "draft/2.Iterable.md",
     "draft/1.直接创建对象和用Spring管理的区别.md",
-    "draft/0.Todo.md",
     "Files/Pasted image 20260926162301.png",
     "Java/0.待解决的相关问题.md",
     "Java/1.常用基础知识.md",
