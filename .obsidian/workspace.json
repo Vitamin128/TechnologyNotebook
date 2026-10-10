@@ -11,14 +11,14 @@
             "id": "5306863fc88fad3c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "tool/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -220,6 +220,10 @@
   },
   "active": "5306863fc88fad3c",
   "lastOpenFiles": [
+    "MongoDB/0.常见命令.md",
+    "tool/未命名.md",
+    "tool",
+    "MongoDB/MongoDB建模.md",
     "draft/MongoDB.md",
     "draft/9.关于http的auth的学习.md",
     "draft/8.Stream.md",
@@ -246,18 +250,14 @@
     "Files/Pasted image 20260926162301.png",
     "Files",
     "draft/异常.md",
-    "MongoDB/MongoDB建模.md",
-    "MongoDB/0.常见命令.md",
     "Java/0.待解决的相关问题.md",
     "Java/1.常用基础知识.md",
     "Java/2.常用接口.md",
-    "Java/3.exception异常.md",
     "MongoDB",
     "photo/Pasted image 20260926162301.png",
     "photo",
     "未命名.canvas",
     "未命名.base",
-    "draft",
-    "MySQL"
+    "draft"
   ]
 }
