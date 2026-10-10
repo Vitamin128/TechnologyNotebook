@@ -11,42 +11,17 @@
             "id": "5306863fc88fad3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "082c85360621f233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Problem/脚本.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "脚本"
-            }
-          },
-          {
-            "id": "8767d89f03ca10dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB/MongoDB建模.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MongoDB建模"
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.1578063964844
+    "width": 200
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -228,11 +203,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.62158203125
+    "width": 408.6666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
-      "realclaudian:Open Claudian": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -240,48 +214,50 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "082c85360621f233",
+  "active": "5306863fc88fad3c",
   "lastOpenFiles": [
-    "draft/0.Todo.md",
-    "Problem/脚本.md",
-    "Problem",
-    "draft/1.直接创建对象和用Spring管理的区别.md",
-    "draft/6.Record.md",
-    "draft/8.Stream.md",
+    "draft/MongoDB.md",
     "draft/9.关于http的auth的学习.md",
-    "draft/10.RocketMQ.md",
-    "Files/Pasted image 20260926162301.png",
-    "MongoDB/0.常见命令.md",
-    "MongoDB/MongoDB建模.md",
-    "draft/2.Iterable.md",
-    "difficult/RocketMQ/RocketMQ 学习中需要加强的方面.md",
-    "draft/4.JWT.md",
+    "draft/8.Stream.md",
+    "draft/7.ServletRequestWrapper.md",
+    "draft/6.Record.md",
     "draft/5.MongoDB.md",
+    "draft/4.JWT.md",
     "draft/3.JavaClassDesignRoles.md",
+    "draft/2.Iterable.md",
+    "draft/10.RocketMQ.md",
+    "draft/1.直接创建对象和用Spring管理的区别.md",
+    "draft/0.Todo.md",
+    "difficult/RocketMQ/RocketMQ 学习中需要加强的方面.md",
     "difficult/RocketMQ",
     "difficult",
-    "draft/7.ServletRequestWrapper.md",
+    "designMode/工厂类和建造者模式.md",
+    "designMode",
+    "Problem/脚本.md",
+    "Problem",
+    "Java/6.JWT.md",
+    "Java/5.Cloneable.md",
+    "Java/4.reflection.md",
+    "Java/3.exception.md",
+    "Files/Pasted image 20260926162301.png",
+    "Files",
+    "draft/异常.md",
+    "MongoDB/MongoDB建模.md",
+    "MongoDB/0.常见命令.md",
     "Java/0.待解决的相关问题.md",
     "Java/1.常用基础知识.md",
     "Java/2.常用接口.md",
-    "Java/3.Exception.md",
-    "Java/4.Reflection.md",
-    "Java/5.Cloneable.md",
-    "Java/6.Jwt.md",
-    "Spring/Tomcat&&HttpServletRequest.md",
-    "designMode/工厂类和建造者模式.md",
-    "draft/stream1.md",
-    "designMode",
-    "draft/CocosCreator.md",
+    "Java/3.exception异常.md",
     "MongoDB",
-    "Files",
+    "photo/Pasted image 20260926162301.png",
+    "photo",
     "未命名.canvas",
     "未命名.base",
     "draft",
-    "MySQL",
-    "Spring"
+    "MySQL"
   ]
 }
