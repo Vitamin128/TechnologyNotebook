@@ -35,14 +35,14 @@
             "id": "e31442bdb4da3db3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Java/1.常用基础知识.md",
-                "bFile": "Java/1.常用基础知识.md",
-                "aRef": ""
+                "file": "draft/7.ServletRequestWrapper.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1.常用基础知识  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "7.ServletRequestWrapper"
             }
           },
           {
@@ -259,16 +259,16 @@
   },
   "active": "e31442bdb4da3db3",
   "lastOpenFiles": [
+    "draft/8.Stream.md",
+    "draft/9.Apifox.md",
     "draft/10.RocketMQ.md",
     "draft/11.VMoptions.md",
-    "draft/9.关于http的auth的学习.md",
-    "draft/8.Stream.md",
     "draft/7.ServletRequestWrapper.md",
     "draft/6.Record.md",
     "draft/5.MongoDB.md",
     "draft/4.JWT.md",
-    "draft/2.Iterable.md",
     "draft/3.JavaClassDesignRoles.md",
+    "draft/2.Iterable.md",
     "draft/1.直接创建对象和用Spring管理的区别.md",
     "draft/0.Todo.md",
     "MongoDB/0.常见命令.md",
