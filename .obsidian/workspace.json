@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/13.Docker.md",
+                "file": "draft/16.Redis.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.Docker"
+              "title": "16.Redis"
             }
           },
           {
@@ -257,10 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e31442bdb4da3db3",
+  "active": "b97eb0bb8c0f247a",
   "lastOpenFiles": [
-    "draft/14.MybatisPlus.md",
     "draft/15.SpringBoot.md",
+    "draft/16.Redis.md",
+    "draft/14.MybatisPlus.md",
     "draft/13.Docker.md",
     "draft/11.VMoptions.md",
     "draft/10.RocketMQ.md",
@@ -284,7 +285,6 @@
     "Java&&Spring/1.常用基础知识.md",
     "Java&&Spring/0.待解决的相关问题.md",
     "MongoDB/MongoDB建模.md",
-    "Java&&Spring/Java相关工具.md",
     "Files/Pasted image 20260926162301.png",
     "Files/Pasted image 20261007135037.png",
     "tool",
