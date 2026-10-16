@@ -11,17 +11,42 @@
             "id": "5306863fc88fad3c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "082c85360621f233",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Java&&Spring/5.Cloneable.md",
+                "file": "draft/0.Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.Cloneable"
+              "title": "0.Todo"
+            }
+          },
+          {
+            "id": "8767d89f03ca10dc",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.64566040039062
   },
   "right": {
     "id": "dd3a039924e3fcf5",
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用接口.md",
+                "file": "draft/10.RocketMQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用接口.md",
+                "file": "Problem/脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -203,10 +228,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.6666259765625
+    "width": 303.2811279296875
   },
   "left-ribbon": {
     "hiddenItems": {
+      "realclaudian:Open Claudian": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -214,51 +240,49 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "045d9738587eeaf1",
+  "active": "8767d89f03ca10dc",
   "lastOpenFiles": [
-    "Java&&Spring/4.Reflection.md",
-    "Java&&Spring/2.常用接口.md",
-    "Java&&Spring/3.Exception.md",
-    "Java&&Spring/1.常用基础知识.md",
-    "Java&&Spring/0.待解决的相关问题.md",
     "MongoDB/0.常见命令.md",
     "MongoDB/MongoDB建模.md",
+    "Java&&Spring/0.待解决的相关问题.md",
+    "Java&&Spring/1.常用基础知识.md",
+    "Java&&Spring/2.常用接口.md",
+    "Java&&Spring/3.Exception.md",
+    "Java&&Spring/4.Reflection.md",
+    "Java&&Spring/5.Cloneable.md",
+    "Java&&Spring/6.Jwt.md",
+    "Java&&Spring/脚本.md",
+    "Java&&Spring/同步.md",
     "Java&&Spring/字符相关API.md",
     "Java&&Spring/Java相关工具.md",
     "Java&&Spring/Tomcat&&HttpServletRequest.md",
-    "Java&&Spring/5.Cloneable.md",
-    "Java&&Spring/6.Jwt.md",
-    "Java&&Spring/同步.md",
-    "Java&&Spring/脚本.md",
-    "draft/8.Redis.md",
     "draft/7.SpringBoot.md",
-    "draft/6.MybatisPlus.md",
-    "draft/5.Docker.md",
-    "draft/4.VMoptions.md",
+    "draft/8.Redis.md",
     "draft/3.RocketMQ.md",
-    "draft/2.Apifox.md",
     "draft/1.MongoDB.md",
+    "draft/2.Apifox.md",
     "draft/0.Todo.md",
-    "Java&&Spring",
+    "draft/5.Docker.md",
+    "draft/6.MybatisPlus.md",
+    "draft/4.VMoptions.md",
+    "draft/1.直接创建对象和用Spring管理的区别.md",
+    "draft/2.Iterable.md",
+    "draft/3.JavaClassDesignRoles.md",
+    "Files/Pasted image 20260926162301.png",
     "Files/Pasted image 20261007135037.png",
-    "tool/Java相关工具.md",
     "tool",
-    "draft/MongoDB.md",
-    "draft/9.关于http的auth的学习.md",
+    "Problem",
     "difficult/RocketMQ",
     "difficult",
     "designMode",
-    "Problem",
-    "Files/Pasted image 20260926162301.png",
-    "Files",
     "MongoDB",
-    "photo/Pasted image 20260926162301.png",
-    "photo",
+    "Files",
     "未命名.canvas",
-    "未命名.base"
+    "未命名.base",
+    "draft",
+    "MySQL"
   ]
 }
